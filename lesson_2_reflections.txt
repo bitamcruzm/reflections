@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates a .git folder for me with the required information to store my repository. I need to do it in order to indicate Git which folder do I want to track.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Is a transitional workspace where all the changed files are registered. It provides more control to the programmer because she or he can choose which changes should be saved in the repository or commited. 
