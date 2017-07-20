@@ -5,3 +5,24 @@ Git creates a .git folder for me with the required information to store my repos
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Is a transitional workspace where all the changed files are registered. It provides more control to the programmer because she or he can choose which changes should be saved in the repository or commited. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Using it for verification before commiting.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+For example, when I want to introduce an experimental change in my application or a new function. The use of branches would help keeping the official version safe.
+
+How do the diagrams help you visualize the branch structure?
+
+Showing the commit's number and order and the different branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The change of one branch are copied to another one. It was represented in that way in the diagram because the commit flow will continue in the branch into which the secondary branch was merged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: It's fast and reduces human error.
+Cons: You may be not aware of unintended changes.
