@@ -10,7 +10,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 Using it for verification before commiting.
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? Ho w would branches help?
 
 For example, when I want to introduce an experimental change in my application or a new function. The use of branches would help keeping the official version safe.
 
